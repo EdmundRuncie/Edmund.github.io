@@ -1,0 +1,58 @@
+h2{
+			text-align: center;
+}
+body
+{
+	background: skyblue;
+}
+p
+{
+	color:black;
+}
+h2{
+font-weight: bolder;
+color: ;
+}
+h3{
+	text-align: center;
+	color: red;
+}
+#about{
+	background-color: aquamarine; 
+	border-radius: 10px;
+	text-align: center;
+}
+#city
+{
+	border:8px dotted red;
+}
+#sport
+{
+    <img src="edmund 1.png" height=400px width=400px alt="edmund image">
+	border:8px dotted red;
+}
+#book
+{
+	background-color:aquamarine ;
+	border-radius: 10px;
+	text-align: center;
+
+}
+#message{
+	border:2px dashed black;
+	background-color: lightyellow;
+	text-align: center;
+
+}
+#last{
+	border:2px dashed black;
+	background-color: lightyellow;
+	text-align: center;
+
+}
+#gallery{
+	background-color: aquamarine;
+	display: inline-block;
+	border-radius:10px ;
+	
+}
